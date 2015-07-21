@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="TA" parent="android:TextAppearance.Material.Large"/>
+    <style name="TA.Inverse" parent="android:TextAppearance.Material.Large.Inverse"/>
+</resources>

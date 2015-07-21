@@ -4,13 +4,13 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="c.mars.activitiesex.SetupActivity"
-    android:background="#ff0">
+    tools:context="c.mars.activitiesex.ExcludeFromRecentsActivity"
+    android:background="#f70">
 
-    <TextView  android:id="@+id/t"
-        android:text="setup"
-        android:elevation="20dp"
-        android:textAppearance="@android:style/TextAppearance.Material.Widget.ActionBar.Title"
+
+    <TextView android:id="@+id/t"
+        android:textAppearance="@style/TA"
+        android:text="exclude from recents"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"/>

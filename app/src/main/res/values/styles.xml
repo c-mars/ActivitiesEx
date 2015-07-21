@@ -4,5 +4,6 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
-
+    <style name="TA" parent="TextAppearance.AppCompat.Large"/>
+    <style name="TA.Inverse" parent="TextAppearance.AppCompat.Large.Inverse"/>
 </resources>

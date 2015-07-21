@@ -5,4 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_setup">SetupActivity</string>
+    <string name="title_activity_clear_top">ClearTopActivity</string>
+    <string name="title_activity_exclude_from_recents">ExcludeFromRecentsActivity</string>
+    <string name="title_activity_other">OtherActivity</string>
 </resources>
